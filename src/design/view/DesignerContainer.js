@@ -274,7 +274,7 @@ const DesignerContainer = () => {
                                     <Nav.Link href="#prici1ng">ABOUT US</Nav.Link>
                                 </Nav>
                                 <Nav className="ml-auto">
-                                    <Nav.Link href="#ho1me">Copyright &copy; Golden Harvest || Designed By Nurislam Mridha</Nav.Link>
+                                    <Nav.Link href="#ho1me">Copyright &copy; Golden Harvest CO|| Designed By Nurislam Mridha</Nav.Link>
 
                                 </Nav>
 
